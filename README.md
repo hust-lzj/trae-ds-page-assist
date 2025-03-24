@@ -79,6 +79,8 @@ src/
 
 ## 后端 API
 
+建议配合 github 项目[trae-ds-go-backend](https://github.com/hust-lzj/trae-ds-go-backend)使用
+
 应用通过 Vite 代理连接到本地后端服务：
 
 -   `/api/stream-chat` - 流式聊天 API
